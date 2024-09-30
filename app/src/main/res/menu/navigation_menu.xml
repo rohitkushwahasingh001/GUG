@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/Academics"
+        android:title="Academics" />
+
+    <item
+        android:id="@+id/Le_board"
+        android:title="Leader Board" />
+
+    <item
+        android:id="@+id/Fee"
+        android:title="Fee" />
+    <item
+        android:id="@+id/PYQ"
+        android:title="Previous year question papers" />
+    <item
+        android:id="@+id/Staff"
+        android:title="Staff" />
+    <item
+        android:id="@+id/Research"
+        android:title="Research" />
+    <item
+        android:id="@+id/Map"
+        android:title="Map" />
+    <item
+        android:id="@+id/Time_tab"
+        android:title="Time Table" />
+    <item
+        android:id="@+id/Attendence"
+        android:title="Attendence" />
+    <item
+        android:id="@+id/Certi"
+        android:title="certificates" />
+    <item
+        android:id="@+id/setting"
+        android:title="Settings" />
+
+</menu>

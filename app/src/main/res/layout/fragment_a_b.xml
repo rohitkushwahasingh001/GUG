@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C9841E"
+    tools:context=".AFragment">
+
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="Rohit Kushwaha"
+    android:id="@+id/txtFrag"
+    android:textSize="40sp"
+    android:gravity="center"/>
+
+
+</LinearLayout>
